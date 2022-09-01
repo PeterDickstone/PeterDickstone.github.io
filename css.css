@@ -207,3 +207,15 @@
     letter-spacing:0.5px;
     border-radius:5px;
   }
+
+.button {
+    text-decoration:none;
+    display:inline-block;
+    background:#200095;
+    padding:8px 12px;
+    color:#fff;
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+    border-radius:5px;
+  }
